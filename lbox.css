@@ -1,0 +1,55 @@
+  
+  #lbox {
+    width: 8%;
+    height: 92%;
+    border-radius: 5px;
+    background-color: #202020; /* Background color of the sidebar */
+    padding: 20px; /* Padding around the content */
+    
+  }
+  
+  #lbox ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #lbox ul li {
+    margin-bottom: 10px;
+  }
+  
+  #lbox ul li a {
+    display: block;
+    color: #fff; /* Default color of the text */
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s ease; /* Smooth color transition on hover */
+  }
+  
+  #lbox ul li a:hover {
+    color: red; /* Color of the text on hover */
+  }
+  
+  
+  
+  .download {
+    position: absolute;
+    bottom: 20px; /* Space from the bottom of the sidebar */
+    left: 20px; /* Space from the left side of the sidebar */
+    color: #fff; /* Default color of the text */
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s ease; /* Smooth color transition on hover */
+  }
+  
+  .download:hover {
+    color: red;/*Colorofthetextonhover*/
+    
+  }
+  
+  /* Font Awesome icons */
+  .fa {
+    margin-right: 10px; /* Space between the icon and the text */
+  }
+  
+  
+  

@@ -1,0 +1,69 @@
+
+.container{
+    width: auto;
+    height: 100%;
+    position: relative;
+    
+  }
+  
+  
+  .box{
+    display: flex;
+    flex-direction: row;
+    float: left;;
+    margin-top: 20px;
+    width: 100%;
+    height: 92%;
+    border-radius: 5px ;
+    position: absolute;
+    top: -1;
+    left: 0;
+    opacity: 0.8;
+    -webkit-border-radius: 5px ;
+    -moz-border-radius: 5px ;
+    -ms-border-radius: 5px ;
+    -o-border-radius: 5px ;
+  }
+
+  
+  
+  #blankbox{
+    width: 44%;
+    height:100%;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+  }
+  
+  #rbox{
+    width: 65%;
+    height:100%;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+  }
+  
+  
+  #rboxdiv{
+    display: flex;
+    flex-direction: row;
+    float: left;
+    gap: 1em;
+  }
+  
+  
+  #abtmehead {
+    transition: color 0.4s ease; 
+  }
+
+  
+  
+
+  
+  
+  
+    
