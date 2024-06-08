@@ -5,7 +5,6 @@
     border-radius: 5px;
     background-color: #202020; /* Background color of the sidebar */
     padding: 20px; /* Padding around the content */
-    
   }
   
   #lbox ul {
@@ -28,9 +27,11 @@
   #lbox ul li a:hover {
     color: red; /* Color of the text on hover */
   }
-  
-  
-  
+
+
+
+  /*resume download css code*/ 
+
   .download {
     position: absolute;
     bottom: 20px; /* Space from the bottom of the sidebar */

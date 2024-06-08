@@ -1,9 +1,8 @@
+// for contact to change to red color
 document.addEventListener('DOMContentLoaded', function() {
     const footer = document.querySelector('footer');
     const h4Elements = document.querySelectorAll('.footer-section h4');
 
-
-    
     footer.addEventListener('mouseover', () => {
       h4Elements.forEach(h4 => h4.style.color = 'red');
     });
@@ -11,8 +10,6 @@ document.addEventListener('DOMContentLoaded', function() {
     footer.addEventListener('mouseout', () => {
       h4Elements.forEach(h4 => h4.style.color = '#ccc');
     });
-    
-  
   });
 
   // JavaScript to handle hover effect for h1 with id abtmehead when hovering over div with id rbox

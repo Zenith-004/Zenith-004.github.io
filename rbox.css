@@ -1,4 +1,4 @@
-
+/*css for right box that contains the about me*/
 #rbox{
     width: 65%;
     height:100%;
@@ -9,7 +9,6 @@
     -o-border-radius: 5px;
   }
   
-  
   #rboxdiv{
     display: flex;
     flex-direction: row;
@@ -17,7 +16,7 @@
     gap: 1em;
   }
   
-  
+  /* about me changes to red when hovring over the div*/
   #abtmehead {
     transition: color 0.4s ease; 
   }

@@ -1,3 +1,4 @@
+/*the div that houses the floating card */
 .stack-top{
     width: 35%;
     height: 97%;
@@ -24,7 +25,7 @@
     -o-border-radius: 5px;  
   }
 
-
+  /*css for the contents of the floating card*/
 .card span {
     display: flex;
     flex-direction: column;

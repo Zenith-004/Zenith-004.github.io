@@ -1,4 +1,6 @@
-
+/*pcontainer== My Projects div
+css for the My Projects div
+*/
 .pcontainer {
     position: relative;
     display: flex;
@@ -40,6 +42,7 @@
     align-items: center;
     color: #fff;
   }
+
   .pcontainer .glass svg {
     font-size: 2.5em;
     fill: #fff;
