@@ -5,10 +5,6 @@ Welcome to the README for **Sheldon Ashish Stephen's** resume! Here you'll find 
 ## 🔍 Overview
 
 **Name:** Sheldon Ashish Stephen  
-**Phone:** +91 7550284784  
-**Email:** [sheldonashish2004@gmail.com](mailto:sheldonashish2004@gmail.com)  
-**Address:** 35, Sri Raman Salai, Thanikachalam Nagar, Chennai-600110  
-
 **Website/Resume Link:** [zenith-004.github.io](https://zenith-004.github.io)
 
 ---
